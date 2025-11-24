@@ -1,0 +1,9 @@
+# Exclude log.log file
+log.log
+
+# Exclude 002.py file
+scripts/002.py
+venv/
+report/
+report.zip
+*__pycache__
